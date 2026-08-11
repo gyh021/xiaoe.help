@@ -1,6 +1,6 @@
 # 小鹅帮 - XiaoE Help
 
-<img src="images/XiaoE.Help.png" alt="小鹅帮应用图标" style="zoom: 25%;" />
+<img src="images/XiaoE.Help.png" alt="小鹅帮应用图标" width="128">
 
 > 面向合法本地保存场景的 Windows 工具。通过 Edge / Chrome 扩展识别当前已打开的视频页面，并在电脑本机完成确认、下载、合并、校验和文件管理。
 
